@@ -37,7 +37,7 @@ Event viewer : 윈도우에서 기본으로 제공하는 프로그램으로 응�
 사용자가 설정한 날짜 안에서 실행된 파일을 시간 순으로 출력한다.
 
 	EX) A와 B파일 타임라인 표시
-<img src="YeonSeok-Song/KelLog-project/image/표.png">
+<img src="https://github.com/YeonSeok-Song/KelLog-project/tree/main/image/표.png">
 
   - 파일의 실행 빈도, 실행 시간 등 그래프 출력
 사용자가 설정한 날짜 안에서 파일 실행 빈도, 실행 시간을 그래프로 출력한다.
