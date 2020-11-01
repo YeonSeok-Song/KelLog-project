@@ -43,12 +43,9 @@ Event viewer : 윈도우에서 기본으로 제공하는 프로그램으로 응�
 사용자가 설정한 날짜 안에서 파일 실행 빈도, 실행 시간을 그래프로 출력한다.
 
 	EX) A와 B파일 실행 빈도, 실행 시간 비교 표시
-	
-
-
-
- 
-
+<img src="https://github.com/YeonSeok-Song/KelLog-project/blob/main/image/%EA%B7%B8%EB%9E%98%ED%94%84.PNG">
+<img src="https://github.com/YeonSeokSong/KelLogproject/blob/main/image/%EC%9D%BC%EB%B3%84%20%ED%8C%8C%EC%9D%BC%20%EC%82%AC%EC%9A%A9%EC%8B%9C%EA%B0%84.PNG">
+<img src="https://github.com/YeonSeok-Song/KelLog-project/blob/main/image/%EC%9D%BC%EC%9E%90%20%EB%B2%94%EC%9C%84%20%EA%B2%80%EC%83%89.PNG">
 
 다. 수집된 파일로그 검색
   파일이 실행된 날짜, 시간, 파일명, 권한으로 원하는 파일을 검색한다.
@@ -73,15 +70,13 @@ Event viewer : 윈도우에서 기본으로 제공하는 프로그램으로 응�
 4. 외부 인터페이스 요구사항
 가. 사용자 인터페이스
  - 메인화면 구성
-
+<img src="https://github.com/YeonSeok-Song/KelLog-project/blob/main/image/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.PNG">
 - 파일로그 검색
-
+<img src="https://github.com/YeonSeok-Song/KelLog-project/blob/main/image/%ED%8C%8C%EC%9D%BC%20%EB%A1%9C%EA%B7%B8%20%EA%B2%80%EC%83%89.PNG">
 - 부팅로그 검색
-
+<img src="https://github.com/YeonSeok-Song/KelLog-project/blob/main/image/%EA%B7%B8%EB%9E%98%ED%94%84.PNG">
 - 컴퓨터 사용시간 체크
-
-
-
+<img src="https://github.com/YeonSeok-Song/KelLog-project/blob/main/image/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%82%AC%EC%9A%A9%EC%8B%9C%EA%B0%84%20%EC%B2%B4%ED%81%AC.PNG">
 
 5. 기대효과(경제성, 사회성, 독창성 등)
 
