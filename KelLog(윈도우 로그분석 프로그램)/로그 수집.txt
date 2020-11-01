@@ -1,0 +1,3 @@
+관리자의 권한으로 cmd 들어가
+wevtutil qe C:\Windows\System32\winevt\Logs\로그파일.evtx /lf /f:text  > 로그파일텍스트저장.txt
+위치 : C:\Windows\System32
